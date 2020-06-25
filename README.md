@@ -1,5 +1,5 @@
 # Applied-Machine-Learning-in-Python
-![image](https://github.com/Sayak007/How-Google-Does-MAchine-Learning/blob/master/How%20Google%20does%20Machine%20Learning/certificate/image.png)
+![image](https://github.com/Sayak007/Applied-Machine-Learning-Using-Python/blob/master/certificates/certificate.jpg)
 ===================================================================================================================================================
 University of Michigan on Coursera
 
